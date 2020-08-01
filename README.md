@@ -8,36 +8,23 @@ Thank you for visiting to README!🐥🐥🐥
 
 ## Language Experiment At Work
 
-| language    | years                  |
-| ----------- | ---------------------- |
-| TypeScript  | +2years(best at)       |
-| JavaScript  | +3years                |
-| HTML        | +3years                |
-| CSS         | +2years                |
-| Ruby(Rails) | +1year                 |
-| Perl        | +0.5year(insufficient) |
-| SQL         | +3years                |
+TypeScript(best at),JavaScript,HTML,CSS,Ruby,Perl(insufficient),SQL
 
 ## Frontend Framework Experiemnt At Work
 
-| Environment       | years            |
-| ----------------- | ---------------- |
-| React             | +2years(best at) |
-| Redux             | +1.5years        |
-| styled-components | +1.5years        |
-| Node              | +1year           |
+React,Redux,styled-components,Node
 
 ## Infra Expriment At Work
 
-| Environment | years     |
-| ----------- | --------- |
-| Linux       | +1.5years |
-| AWS         | +1.5years |
-| Firebase    | +1.5years |
+Linux,AWS,Firebase
 
-## Private Expriemnt
+## Private Expriment
 
-| skill | years    |
-| ----- | -------- |
-| Next  | +0.5year |
-| C#    | +0.5year |
+Next, C#
+
+<a href="https://github.com/Bookman0001">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Bookman0001&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/Bookman0001">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bookman0001" />
+</a>
