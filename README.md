@@ -2,8 +2,7 @@
 
 I'm working as front-end developer.🙂
 Especially, I love TypeScript and React.
-Japanese Or English OK!
-Here is my experiment.🐥🐥🐥
+Both Japanese And English OK!🐥🐥🐥
 
 ## Language and Framework Experiment At Work
 
