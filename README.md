@@ -4,13 +4,10 @@ I'm working as front-end developer.🙂
 Especially, I love TypeScript and React.
 Here is my experiment.🐥🐥🐥
 
-## Language Experiment At Work
+## Language and Framework Experiment At Work
 
-TypeScript(best at),JavaScript,HTML,CSS,Ruby,Perl(insufficient),SQL
+TypeScript(best at),JavaScript,React,Redux,Node,Webpack,HTML,CSS,Ruby,Perl(insufficient),SQL
 
-## Frontend Framework Experiemnt At Work
-
-React,Redux,styled-components,Node
 
 ## Infra Expriment At Work
 
