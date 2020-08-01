@@ -2,9 +2,7 @@
 
 I'm working as front-end developer.🙂
 Especially, I love TypeScript and React.
-Here is my experiment.
-
-Thank you for visiting to README!🐥🐥🐥
+Here is my experiment.🐥🐥🐥
 
 ## Language Experiment At Work
 
