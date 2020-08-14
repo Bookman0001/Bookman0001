@@ -6,7 +6,7 @@ Both Japanese And English OK!🐥🐥🐥
 
 ## Language and Framework Experiment At Work
 
-TypeScript(best at),JavaScript,React,Redux,Node,Webpack,HTML,CSS,Ruby,Perl(insufficient),SQL
+TypeScript(best at),JavaScript,React,Redux,Node,Webpack,HTML,CSS,Ruby,Perl(insufficient),SQL,MySQL,SQL Server
 
 
 ## Infra Expriment At Work
