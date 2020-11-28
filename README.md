@@ -13,7 +13,7 @@ TypeScript,JavaScript,React,Redux,Node,Webpack,HTML,CSS,Ruby,Perl,MySQL,SQL Serv
 
 Linux,AWS,Firebase
 
-## Private Expriment
+## Private Experiment
 
 Vue,Next, C#
 
