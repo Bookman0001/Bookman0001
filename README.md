@@ -1,8 +1,7 @@
 ## Introduction
 
 I'm working as front-end developer.🙂
-Especially, I love TypeScript and React.
-Both Japanese And English OK!🐥🐥🐥
+Especially, I love TypeScript and React.🐥🐥🐥
 
 ## Language and Framework Experiment At Work
 
