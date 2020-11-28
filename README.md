@@ -9,7 +9,7 @@ Both Japanese And English OK!🐥🐥🐥
 TypeScript,JavaScript,React,Redux,Node,Webpack,HTML,CSS,Ruby,Perl,MySQL,SQL Server
 
 
-## Infra Expriment At Work
+## Infra Experiment At Work
 
 Linux,AWS,Firebase
 
