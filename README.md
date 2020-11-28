@@ -15,7 +15,7 @@ Linux,AWS,Firebase
 
 ## Private Experiment
 
-Vue,Next, C#
+Vue,Next,C#
 
 <a href="https://github.com/Bookman0001">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Bookman0001&count_private=true&show_icons=true" />
