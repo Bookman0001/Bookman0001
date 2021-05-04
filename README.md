@@ -1,7 +1,7 @@
 ## Introduction
 
-I'm working as front-end developer.🙂 <br />
-Especially, I love TypeScript and React. <br />
+Front-end developer.🙂 <br />
+I love TypeScript and React. <br />
 My public repository is made for testing and evaluating library. <br />
 Please Don't use it in working!
 
