@@ -1,20 +1,25 @@
 ## Introduction
 
 I'm working as front-end developer.🙂
-Especially, I love TypeScript and React.🐥🐥🐥
+Especially, I love TypeScript and React.
 
-## Language and Framework At Main Work
+## Skill
 
-TypeScript,JavaScript,React,Redux,Node,Webpack,HTML,CSS,Ruby,Perl,MySQL,SQL Server
+### Front-End
+TypeScript,JavaScript,React,Redux,NExt,Vue,Nuxt,Node,Webpack,HTML,CSS
+
+### Back-End
+Ruby,Perl
+
+## DB
+MySQL,SQL Server
 
 
 ## Infra
-
 Linux,AWS,Firebase
 
 ## Other
-
-Next,Vue,Nuxt,C#
+C#
 
 <a href="https://github.com/Bookman0001">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Bookman0001&count_private=true&show_icons=true" />
