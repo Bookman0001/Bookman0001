@@ -6,7 +6,7 @@ Especially, I love TypeScript and React.
 ## Skill
 
 ### Front-End
-TypeScript,JavaScript,React,Redux,NExt,Vue,Nuxt,Node,Webpack,HTML,CSS
+TypeScript,JavaScript,React,Redux,Next,Vue,Nuxt,Node,Webpack,HTML,CSS
 
 ### Back-End
 Ruby,Perl
