@@ -2,7 +2,7 @@
 
 Front-end developer.🙂 <br />
 I love TypeScript and React. <br />
-My public repository is made for testing and evaluating library. <br />
+My public repository is made for testing and evaluating oss library. <br />
 
 <a href="https://k-puppeteer.com">
   More detail about enginner experience
