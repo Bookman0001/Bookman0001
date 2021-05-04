@@ -3,7 +3,6 @@
 Front-end developer.🙂 <br />
 I love TypeScript and React. <br />
 My public repository is made for testing and evaluating library. <br />
-Please Don't use it in working!
 
 <a href="https://k-puppeteer.com">
   More detail about enginner experience
