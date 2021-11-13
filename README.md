@@ -1,4 +1,5 @@
 ## Introduction
+スカウトメールはお断りしてます。
 
 Front-end developer.🙂 <br />
 I love TypeScript, React, Next and Nuxt. <br />
