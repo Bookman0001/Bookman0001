@@ -6,10 +6,6 @@ Front-end developer.🙂 <br />
 I love TypeScript, React, Next and Nuxt. <br />
 My public repository is made for testing and evaluating oss library. <br />
 
-<a href="https://k-puppeteer.com">
-  More detail about enginner experience
-</a>
-
 ## Skill
 
 ### Front-End
