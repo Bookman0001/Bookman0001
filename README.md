@@ -1,5 +1,6 @@
 ## Introduction
-スカウトメールはお断りしてます。
+スカウトメールはお断りしてます。🙅‍♂️
+リポジトリはOSS調査のために作ってます。
 
 Front-end developer.🙂 <br />
 I love TypeScript, React, Next and Nuxt. <br />
