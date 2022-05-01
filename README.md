@@ -1,5 +1,5 @@
 ## Introduction
-問い合わせは以下に用意しました。 <br />
+何かあれば問い合わせは以下でお願いします。 <br />
 
 https://k-puppeteer.com/reception
 
