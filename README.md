@@ -5,7 +5,7 @@ https://k-puppeteer.com/reception
 
 リポジトリはOSS調査のために作ってます。
 
-Front-end developer.🙂 <br />
+Developer.🙂 <br />
 I love TypeScript, React, Next and Nuxt. <br />
 My public repository is made for testing and evaluating oss library. <br />
 
