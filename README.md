@@ -1,5 +1,5 @@
 ## Introduction
-仕事探してます。フロントエンド分野で貢献できるのでぜひお声がけください。 <br />
+問い合わせは以下に用意しました。 <br />
 
 https://k-puppeteer.com/reception
 
