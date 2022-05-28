@@ -1,8 +1,5 @@
 ## Introduction
-何かあれば問い合わせは以下でお願いします。 <br />
-
-https://k-puppeteer.com/reception
-
+何かあれば[問い合わせフォーム](https://k-puppeteer.com/reception)でお願いします。 <br />
 リポジトリはOSS調査のために作ってます。
 
 Developer.🙂 <br />
@@ -43,11 +40,6 @@ My public repository is made for testing and evaluating oss library. <br />
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  
   
-  
-  
- 
- 
-
 <a href="https://github.com/Bookman0001">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Bookman0001&count_private=true&show_icons=true" />
 </a>
