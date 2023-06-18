@@ -41,12 +41,4 @@ My public repository is made for testing and evaluating oss library. <br />
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
- 
-  
-<a href="https://github.com/Bookman0001">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Bookman0001&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/Bookman0001">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bookman0001" />
-</a>
           
