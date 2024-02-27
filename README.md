@@ -2,8 +2,6 @@
 何かあれば[問い合わせフォーム](https://k-puppeteer.com/reception)でお願いします。 <br />
 リポジトリはOSS調査のために作ってます。
 
-I'm majoring in FrontEnd field as a developer.🙂 <br />
-I love TypeScript, React, Next and Nuxt. <br />
 My public repository is made for testing and evaluating oss library. <br />
 
 ## Skill
