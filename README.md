@@ -1,5 +1,4 @@
 ## Introduction
-何かあれば[問い合わせフォーム](https://k-puppeteer.com/reception)でお願いします。 <br />
 リポジトリはOSS調査のために作ってます。
 
 My public repository is made for testing and evaluating oss library. <br />
